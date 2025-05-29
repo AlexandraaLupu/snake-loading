@@ -2,6 +2,10 @@
 
 An interactive and lightweight Snake game implemented as a reusable React component, **designed to entertain users during content loading screens**. This component uses HTML Canvas and React Hooks to deliver a retro gaming experience within your UI.
 
+<div align=center>
+<img src="https://github.com/user-attachments/assets/02feebd6-22f7-4fac-a966-0973444eda04" width="600" alt="Snake Game demo" />
+</div>
+
 ## What’s Inside?
 
 - `SnakeGame.tsx` – The core **Snake game component**
